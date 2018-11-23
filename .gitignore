@@ -1,0 +1,7 @@
+# Directories
+.vs/
+
+# Files
+*.user
+*.exe
+*.mdl
